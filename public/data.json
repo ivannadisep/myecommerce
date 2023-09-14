@@ -1,0 +1,28 @@
+
+
+[
+    {
+        "id": 1,
+        "nombre": "Amelia",
+        "precio": 7500,
+        "img": "https://acdn.mitiendanube.com/stores/002/198/553/products/fa28f7e0-56f0-4e32-8c45-8e72e9413dbe1-e4c22539c5f8a9721d16668839267839-640-0.webp"
+    },
+    {
+        "id": 2,
+        "nombre": "Grecia",
+        "precio": 9500,
+        "img": "https://acdn.mitiendanube.com/stores/002/198/553/products/b46b919f-12a5-487d-8d90-14fb678656291-f1a69ad891e528a27a16779662151481-640-0.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "Genova",
+        "precio": 10000,
+        "img": "https://acdn.mitiendanube.com/stores/002/198/553/products/89af9844-a3f5-442b-8e54-4e553196ad531-db69381c756129adbb16914498650171-640-0.webp"
+    },
+    {
+        "id": 4,
+        "nombre": "Linda",
+        "precio": 8500,
+        "img": "https://acdn.mitiendanube.com/stores/002/198/553/products/489c6a51-e858-47d4-900e-3accf77fcfa91-f2603e2d63270a728a16607727734501-640-0.webp"
+    }
+]
