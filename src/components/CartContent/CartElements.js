@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { dataContext } from "../Context/DataContext";
-
+import "./CartContent.css"
 
 const CartElements = () => {
     const {cart} = useContext(dataContext);
@@ -11,6 +11,8 @@ const CartElements = () => {
                 <h3 className="name">{product.nombre} </h3>
                 <h4 className="precio"> ${product.precio}</h4>
             </div>
-        )
-    }) 
+        );
+    });
 };
+
+export default CartElements;
